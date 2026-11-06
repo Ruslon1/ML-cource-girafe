@@ -1,1 +1,7 @@
 /.idea
+
+# Local-only files
+.DS_Store
+__pycache__/
+*.pyc
+*.log
